@@ -1,0 +1,36 @@
+/* .react img{
+    width: 10%;
+    height: 10%;
+}
+.javascript img{
+    width: 10%;
+    height: 10%;
+}
+.css img{
+    width: 10%;
+    height: 10%;
+}
+.html img{
+    width: 10%;
+    height: 10%;
+}
+.banco img{
+    width: 10%;
+    height: 10%;
+}
+.node img{
+    width: 10%;
+    height: 10%;
+} */
+.logos{
+    display: flex;
+    justify-content: space-around;
+    padding: 150px;
+}
+
+.logos img{
+    width: 125px;
+}
+.logos p{
+    text-align: center;
+}

@@ -1,0 +1,64 @@
+.quantum{
+    /* margin: auto; */
+    width: 20%;
+    border: 5px solid #9F13DD;
+    border-radius: 10px;
+    display: inline-block;
+    background-color: #26013F;
+    padding: 25px;
+}
+.potion{
+    /* margin: auto; */
+    width: 20%;
+    border: 
+    5px solid #9F13DD;
+    border-radius: 5px;
+    text-indent: 19%;
+    display: inline-block;
+    background-color: #26013F;
+    padding: 25px;
+}
+.code{
+    /* margin: auto; */
+    width: 20%;
+    border: 
+    5px solid #9F13DD;
+    border-radius: 5px;
+    text-indent: 19%;
+    display: inline-block;
+    background-color: #26013F;
+    padding: 25px;
+}
+.projeto h2{
+    margin: auto;
+    width: 90%;
+    background-color: #26013F;
+    text-align: center;
+}
+.topo{
+    display: flex;
+    align-items: center;
+    height: 30vh;
+}
+.topo h1{
+    margin: 0%;
+    font-size: 100px;
+    /* display: block; */
+    /* text-align: left; */
+    width: 50%;
+}
+.topo img{
+    width: 5%;
+    height: 25%;
+}
+.projeto{
+    display: flex;
+    justify-content: space-around;
+    /* margin-top: 20px; */
+    /* height: 55vh; */
+    font-size: 22px;
+    text-align: justify;
+}
+.projeto p{
+    background-color: #26013F;
+}

@@ -1,0 +1,14 @@
+.texto{
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 50px;
+
+}
+span{
+    color: #F34DA9;
+}
+.texto p{
+    background-color: #26013f00 !important;
+}
